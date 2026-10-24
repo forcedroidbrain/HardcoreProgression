@@ -52,6 +52,10 @@ Back up `raid-progress.json` with your profile. Do not edit it while the server 
 
 Turns eligible cash trader offers into item barters while preserving existing barters and normal unlock requirements. Pair it with Hardcore Progression if you want to spend looted materials on regular trader goods as well as quest recovery items. Optional, installed separately.
 
+## Executable scans
+
+Both DLLs completed VirusTotal analysis with **0/71 detections** on 2026-10-24: [server DLL](https://www.virustotal.com/gui/file/81455d67a8b744ec6606871002d5c84c668cda89c3d7fcd250f81df1c3499ea0/detection), [client DLL](https://www.virustotal.com/gui/file/24ca94ce269adeceef4af93d031c8a9028ca85e24b303651c1883d0e84b867ec/detection).
+
 ## Credits and source
 
 By **forcedroidbrain**. [Source, build instructions and support](https://github.com/forcedroidbrain/HardcoreProgression).

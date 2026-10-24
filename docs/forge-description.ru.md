@@ -52,6 +52,10 @@ Better Keys, QuestBackport и LocalStackLimits не обязательны. От
 
 Превращает подходящие денежные предложения торговцев в обмены на предметы, сохраняя существующие бартеры и обычные условия открытия. Подойдёт вместе с Hardcore Progression, если вы хотите тратить найденные материалы и на обычные товары, и на предметы из квестовых обменов. Устанавливается отдельно, не обязателен.
 
+## Проверка файлов
+
+Обе DLL завершили анализ VirusTotal с результатом **0/71** на 24 октября 2026 года: [серверная DLL](https://www.virustotal.com/gui/file/81455d67a8b744ec6606871002d5c84c668cda89c3d7fcd250f81df1c3499ea0/detection), [клиентская DLL](https://www.virustotal.com/gui/file/24ca94ce269adeceef4af93d031c8a9028ca85e24b303651c1883d0e84b867ec/detection).
+
 ## Авторство и исходники
 
 Автор: **forcedroidbrain**. [Код, сборка и сообщения об ошибках](https://github.com/forcedroidbrain/HardcoreProgression).

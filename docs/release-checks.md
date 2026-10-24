@@ -32,7 +32,7 @@ Evidence: `artifacts/clean-server-results.json` and each isolated server's stdou
 ## Before Forge submission
 
 - Complete in-game smoke tests on a test profile: quest counters in both panels, first and repeat purchases, real raid return, failed purchase, localization and supported optional-mod combinations.
-- Confirm VirusTotal scan results for **both release DLLs**. SHA-based lookup URLs in `dist/binary-manifest.json` are not evidence that a file has been uploaded or scanned. Update reports after any binary rebuild.
+- Both release DLLs completed VirusTotal analysis: **0/71** each on 2026-10-24. See [reports and hashes](security-scans.md). Reconfirm reports after any binary change; a newly generated lookup URL alone is not scan evidence.
 - Resolve Forge's restriction on substantial AI-written functionality. Enabling Contains AI Content alone does not resolve eligibility. Research/code/testing/documentation assistance and generated artwork must be disclosed accurately.
 - Confirm the release archive is built from the public source revision and contains only our own binaries, configuration, docs and required license notices. Set category/tags and SPT constraints to tested versions; Fika remains unknown.
 - Recheck the live [Content Guidelines](https://forge.sp-tarkov.com/content-guidelines) and [Community Standards](https://forge.sp-tarkov.com/community-standards).

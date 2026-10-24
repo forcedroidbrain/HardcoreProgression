@@ -15,12 +15,12 @@
 - English description: [forge-description.md](forge-description.md).
 - Russian description: [forge-description.ru.md](forge-description.ru.md).
 - Archive: `dist/HardcoreProgression-2.0.0.zip`, generated from the public source revision.
-- Executable checks: both DLL SHA-256 values and report lookup URLs are in `dist/binary-manifest.json`. Lookup URLs are not confirmed scan results.
+- Executable checks: [both completed DLL reports](security-scans.md) displayed **0/71** on 2026-10-24. SHA-256 values are also in `dist/binary-manifest.json`; update reports after any binary change.
 - **Contains AI Content: yes.** Describe research, code assistance, testing, documentation and generated artwork accurately. Do not represent the flag as an exemption from the AI-code eligibility rule.
 
 Both descriptions contain **My mods / Мои моды**, linking SPT Barterizer on Forge and GitHub and explaining its optional economy conversion role.
 
-Publication is pending in-game testing, confirmed DLL scans and resolution of Forge's AI-code eligibility requirement. A GitHub draft release and preparation archive do not assert completion of those steps. No Forge page is created by the tooling in this repository.
+Publication is pending in-game testing and resolution of Forge's AI-code eligibility requirement. A GitHub draft release and preparation archive do not assert completion of those steps. No Forge page is created by the tooling in this repository.
 
 Live requirements reviewed on 2026-10-24:
 
