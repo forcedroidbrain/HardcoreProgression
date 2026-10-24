@@ -1,5 +1,7 @@
 # Hardcore Progression — Forge page fields
 
+Saved on 2026-10-24 as [Hardcore Progression](https://sp-mod.com/mod/3208/hardcore-progression), owned by forcedroidbrain. Both the mod page and its version 2.0.0 are **Unpublished**. GitHub version 2.0.0 is public.
+
 ## Mod
 
 | Field | Prepared value |
@@ -10,15 +12,18 @@
 | English summary | Quest recovery barters unlocked through PMC raids, with persistent progress and English/Russian counters. Standalone; optional HardcoreRules and Barterizer support. |
 | Russian summary | Квестовые обмены, открывающиеся после рейдов за ЧВК. Сохранение прогресса и счётчики EN/RU. Самостоятельный мод с необязательной поддержкой HardcoreRules и Barterizer. |
 | License | MIT |
-| Source | https://github.com/forcedroidbrain/HardcoreProgression/tree/v2.0.0 |
+| Category | Quests |
+| Source repository field | https://github.com/forcedroidbrain/HardcoreProgression/ |
+| Exact release source, linked in description | https://github.com/forcedroidbrain/HardcoreProgression/tree/v2.0.0 |
 | Support | https://github.com/forcedroidbrain/HardcoreProgression/issues |
-| Icon file | `assets/forge-icon.png` |
-| Icon URL | https://github.com/forcedroidbrain/HardcoreProgression/releases/download/v2.0.0/forge-icon.png |
+| Thumbnail input | `assets/forge-thumbnail.webp` — lossless conversion of the original PNG, 1254x1254, 2,029,694 bytes; accepted and processed by Forge's square crop/upload UI |
+| Original icon | `assets/forge-icon.png`; the published GitHub asset remains unchanged |
 | Description | [English](forge-description.md), [Russian](forge-description.ru.md) |
-| AI content field, if present | Enabled; Codex/artwork disclosure is included in both descriptions |
+| AI disclosure | Included in the description; no dedicated AI-content checkbox is present in the inspected create/edit form |
 | Fika | Untested / unknown |
+| Profile binding notice | Disabled: the mod adds no custom quest, trader or item templates to profile saves; normal purchased items survive uninstall, and its own progress is in a separate ledger |
 
-Use the closest available quest/trader/gameplay categories and tags shown by the submission form. This file does not assert that any form-only category or option has been selected.
+The thumbnail, English description, Russian instructions link, Quests category, MIT license and source link were saved and read back on the mod page. Its Publish Date remains blank. Comments, add-ons and lists retain the normal defaults; support links point to GitHub Issues.
 
 ## Version
 
@@ -38,3 +43,5 @@ Use the closest available quest/trader/gameplay categories and tags shown by the
 HardcoreRules 3.1.0 and Barterizer 0.1.3 are optional integrations, not required dependencies. OpenBarters testing covers the maintainer's 1.0.1 fork at cd66ed5 alongside both integrations. Keep those limits in the description.
 
 Both language descriptions include My mods / Мои моды with the Barterizer link and a short explanation of its economy conversion role. Keep that section when transferring the text into the editor.
+
+The saved version was read back as 2.0.0, SPT 4.1.6, 2.95 MiB, with both VirusTotal links. Its Publish Date remains blank. Publish the mod and version only when the maintainer requests Forge publication.

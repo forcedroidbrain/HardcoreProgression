@@ -1,5 +1,7 @@
 # Hardcore Progression
 
+[Русское описание и установка](https://github.com/forcedroidbrain/HardcoreProgression/blob/v2.0.0/README.ru.md)
+
 **Get another chance at a quest key or weapon part — earn it through raids.**
 
 Hardcore Progression adds quest-specific recovery barters at Therapist and Mechanic. Accept a supported quest and complete six PMC raids while it remains active to unlock the corresponding exchanges. Each purchase gives one non-FIR item. Need another? Complete six more raids after that purchase.

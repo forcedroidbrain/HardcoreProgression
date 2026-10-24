@@ -22,7 +22,9 @@
 
 Both descriptions contain **My mods / Мои моды**, linking SPT Barterizer on Forge and GitHub and explaining its optional economy conversion role.
 
-The scoped gameplay checks are complete. GitHub version 2.0.0 was published on 2026-10-24 from commit `f0e74cfa69e114b2aeb10f139a992de47bbd9872`. Its public ZIP download was retrieved and its hash verified against the tested archive. The published tag and binaries remain unchanged. [Prepared Forge fields](forge-page-fields.md) accompany both descriptions. Saving the Forge page requires an authenticated maintainer session; page publication is a separate action.
+The scoped gameplay checks are complete. GitHub version 2.0.0 was published on 2026-10-24 from commit `f0e74cfa69e114b2aeb10f139a992de47bbd9872`. Its public ZIP download was retrieved and its hash verified against the tested archive. The published tag and binaries remain unchanged.
+
+The [Forge page](https://sp-mod.com/mod/3208/hardcore-progression) and version 2.0.0 were saved under forcedroidbrain with blank Publish Dates. Both are **Unpublished**. The thumbnail, descriptions/links, SPT constraint, download and both scan reports were read back. [Saved Forge fields](forge-page-fields.md) record the final state. Publication on Forge remains a separate action.
 
 Live requirements reviewed on 2026-10-24 at the site hosting the maintainer's Barterizer page:
 
