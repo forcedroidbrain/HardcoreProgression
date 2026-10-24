@@ -67,7 +67,8 @@ namespace HardcoreProgression.Client
             foreach (var repeat in progress.Repeats)
                 if (!string.IsNullOrEmpty(repeat.ItemTemplate))
                     repeat.ItemName = (repeat.ItemTemplate + " Name").Localized(null);
-            text.text = DescriptionBanner.Apply(text.text, progress, strings);
+            // The task-list panel disables rich text; preserve the panel's own rendering mode.
+            text.text = DescriptionBanner.Apply(text.text, progress, strings, text.richText);
             warned = false;
         }
 

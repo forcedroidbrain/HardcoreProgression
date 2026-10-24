@@ -33,6 +33,8 @@ public static class VerifyBindings
                 Type fieldType=field.FieldType;
                 while(fieldType!=null && fieldType.FullName!="TMPro.TMP_Text")fieldType=fieldType.BaseType;
                 if(fieldType==null)throw new Exception("Description field is not TMP text");
+                var richText=fieldType.GetProperty("richText",All);
+                if(richText==null || richText.PropertyType!=typeof(bool) || richText.GetMethod==null)throw new Exception("TMP rich-text mode is unavailable");
                 Console.WriteLine("PASS client binding: "+target.DeclaringType.FullName+"."+target.Name);
                 count++;
             }

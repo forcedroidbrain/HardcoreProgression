@@ -1,6 +1,8 @@
 # Executable scan reports — 2.0.0
 
-Both packaged DLLs were submitted to VirusTotal with the maintainer's permission. Completed report pages were verified on **2026-10-24**. Each displayed **0 detections / 71 vendors** at verification. This records the observed scan result, not a guarantee of safety or a substitute for source review and gameplay testing.
+The original draft's two DLLs were submitted to VirusTotal with the maintainer's permission. Completed report pages were verified on **2026-10-24**. Each displayed **0 detections / 71 vendors** at verification. This records the observed scan result, not a guarantee of safety or a substitute for source review and gameplay testing.
+
+The subsequent task-list formatting fix changed the test client to SHA-256 `85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44`. A completed scan for that file has not been verified. The reports below apply only to the exact original draft files; refresh hashes and reports after the final rebuild before publication.
 
 | Binary | SHA-256 | Completed report |
 | --- | --- | --- |

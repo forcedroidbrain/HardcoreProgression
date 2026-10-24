@@ -218,10 +218,25 @@ File.WriteAllText(ledgerPath,JsonSerializer.Serialize(new RaidProgress(),RaidLed
 var unsafeName=new QuestProgressInfo{Raids=3,Required=6,Repeats=[new(){ItemName="<color=red>Part</color>",Raids=2,Required=6}]};
 Check(!DescriptionBanner.Apply("base",unsafeName,locale.Languages["ru"]).Contains("<color=red>"),"Item name injected rich text");
 Check(DescriptionBanner.Apply("base",unsafeName,locale.Languages["en"]).Contains("Raids: 3/6"),"English counter missing");
+foreach (string language in new[] { "en", "ru" })
+{
+    var strings = locale.Languages[language];
+    var view = new QuestProgressInfo { Raids=1, Required=1, Unlocked=true,
+        Repeats=[new() { ItemName="Part\r\n\n<name>", Raids=0, Required=1 }] };
+    string plain=DescriptionBanner.Apply(description,view,strings,richText:false);
+    string banner=plain[..^description.Length];
+    Check(!banner.Contains('<') && !banner.Contains('>'),"Plain-text task panel received markup");
+    Check(banner.Contains(strings["Raids"]+"1/1") && banner.Contains(strings["Repeat"]) && banner.Contains("0/1"),"Plain counter lost unlocked/repeat progress");
+    Check(DescriptionBanner.Remove(plain)==description,"Plain counter damaged the original description");
+    Check(DescriptionBanner.Apply(plain,view,strings,false)==plain,"Plain counter duplicated");
+    string rich=DescriptionBanner.Apply(plain,view,strings,true);
+    Check(DescriptionBanner.Remove(rich)==description,"Switching to rich text retained an old plain block");
+    Check(DescriptionBanner.Apply(rich,view,strings,false)==plain,"Switching to plain text retained rich markup");
+}
 fixtureHarmony.UnpatchSelf();
 if(args.Length > 1) IntegrationVerification.Run(sptRoot,args[1],templates,traders,progression);
 Console.WriteLine($"PASS: {progression.Offers.Count} real-data offers; actual patched async MatchController calls; six completed raids; deaths, run-through, MIA; duplicate results; scav/transit/aborts; failed start/save; persistence and pending recovery; quest assignment changes; per-item repeat cooldown; bulk/FIR rules; default optional-rule isolation/secure-grid safeguards; corrupt ledger fails closed.");
-Console.WriteLine("PASS descriptions: 0–6 counters; active quests only; profile/assignment isolation; repeat cooldown; Russian/English text; original description and other markup preserved; no duplicate block; corrupt ledger hidden.");
+Console.WriteLine("PASS descriptions: 0–6 counters; active quests only; profile/assignment isolation; repeat cooldown; Russian/English rich/plain text and mode switches; original description and other markup preserved; no duplicate block; corrupt ledger hidden.");
 
 public static class RaidFixture
 {
