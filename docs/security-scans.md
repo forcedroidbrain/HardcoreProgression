@@ -2,7 +2,14 @@
 
 The original draft's two DLLs were submitted to VirusTotal with the maintainer's permission. Completed report pages were verified on **2026-10-24**. Each displayed **0 detections / 71 vendors** at verification. This records the observed scan result, not a guarantee of safety or a substitute for source review and gameplay testing.
 
-The subsequent task-list formatting fix changed the test client to SHA-256 `85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44`. A completed scan for that file has not been verified. The reports below apply only to the exact original draft files; refresh hashes and reports after the final rebuild before publication.
+The subsequent task-list formatting fix changed both assemblies because they compile the shared formatter. Completed scans for the current binaries have not been verified:
+
+| Current binary | SHA-256 | Scan status |
+| --- | --- | --- |
+| `HardcoreProgression.dll` | `f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509` | Pending verification |
+| `HardcoreProgression.Client.dll` | `85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44` | Pending verification |
+
+The completed reports below apply only to the original draft files, which are no longer the current package. Refresh reports for the current hashes before publication.
 
 | Binary | SHA-256 | Completed report |
 | --- | --- | --- |

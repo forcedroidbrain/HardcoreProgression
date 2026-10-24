@@ -39,6 +39,7 @@
 
 - **HardcoreRules:** ограничения сервисов, торговли и содержимого контейнера. Его конфиги не перезаписываются; whitelist-only сохраняет своё действие.
 - **Barterizer:** преобразование обычных денежных предложений в бартеры. Квестовые обмены Progression остаются отдельными. Сам Barterizer не вводит все ограничения HardcoreRules.
+- **OpenBarters:** необязательная оплата заменителями сохраняет открытие и повтор обмена через рейды. Проверена версия 1.0.1 из форка forcedroidbrain, cd66ed5, вместе с HardcoreRules 3.1.0 и Barterizer 0.1.3. Эти две интеграции также проверены отдельно и вместе без OpenBarters. [Границы тестирования](https://github.com/forcedroidbrain/HardcoreProgression/blob/main/docs/release-checks.md).
 
 Better Keys, QuestBackport и LocalStackLimits не обязательны. Отсутствующие в базе записи каталога пропускаются. Fika не проверена.
 
@@ -54,7 +55,7 @@ Better Keys, QuestBackport и LocalStackLimits не обязательны. От
 
 ## Проверка файлов
 
-Обе DLL завершили анализ VirusTotal с результатом **0/71** на 24 октября 2026 года: [серверная DLL](https://www.virustotal.com/gui/file/81455d67a8b744ec6606871002d5c84c668cda89c3d7fcd250f81df1c3499ea0/detection), [клиентская DLL](https://www.virustotal.com/gui/file/24ca94ce269adeceef4af93d031c8a9028ca85e24b303651c1883d0e84b867ec/detection).
+Исходные DLL черновика прошли VirusTotal с результатом **0/71** на 24 октября 2026 года. После игрового исправления обе DLL пересобраны; перед подачей нужны новые подтверждённые отчёты. [Текущие хеши и прежние отчёты](https://github.com/forcedroidbrain/HardcoreProgression/blob/main/docs/security-scans.md).
 
 ## Авторство и исходники
 

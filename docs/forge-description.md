@@ -39,6 +39,7 @@ See the [configuration reference](https://github.com/forcedroidbrain/HardcorePro
 
 - **HardcoreRules:** use its hardcore service/trading/container restrictions alongside progression. This mod does not overwrite its config. Whitelist-only restrictions still apply.
 - **Barterizer:** convert eligible regular cash offers to item barters. Our quest offers already use item barters and remain separate. Barterizer does not supply all HardcoreRules restrictions.
+- **OpenBarters:** optional substitute payments preserve the raid gate and repeat wait. Tested with the maintainer's fork, version 1.0.1 at cd66ed5, together with HardcoreRules 3.1.0 and Barterizer 0.1.3. These two integrations were also tested separately and together without OpenBarters. See [test scope](https://github.com/forcedroidbrain/HardcoreProgression/blob/main/docs/release-checks.md).
 
 Better Keys, QuestBackport and LocalStackLimits are not required. Missing catalog quests/items are skipped. Fika is untested; mods that replace assortments, quest descriptions or raid saving require additional checks.
 
@@ -54,7 +55,7 @@ Turns eligible cash trader offers into item barters while preserving existing ba
 
 ## Executable scans
 
-Both DLLs completed VirusTotal analysis with **0/71 detections** on 2026-10-24: [server DLL](https://www.virustotal.com/gui/file/81455d67a8b744ec6606871002d5c84c668cda89c3d7fcd250f81df1c3499ea0/detection), [client DLL](https://www.virustotal.com/gui/file/24ca94ce269adeceef4af93d031c8a9028ca85e24b303651c1883d0e84b867ec/detection).
+The original draft DLLs completed VirusTotal analysis with **0/71 detections** on 2026-10-24. Both current DLLs were rebuilt after a gameplay fix and require fresh verified reports before submission. [Current hashes and original reports](https://github.com/forcedroidbrain/HardcoreProgression/blob/main/docs/security-scans.md).
 
 ## Credits and source
 
