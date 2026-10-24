@@ -37,6 +37,11 @@ try {
     }
     Copy-Item -LiteralPath "$repo/locales" -Destination $server -Recurse
     Copy-Item -LiteralPath "$repo/licenses" -Destination $server -Recurse
+    New-Item -ItemType Directory -Path "$server/docs","$server/assets" -Force | Out-Null
+    foreach ($name in @('configuration.md','release-checks.md')) {
+        Copy-Item -LiteralPath (Join-Path $repo "docs/$name") -Destination "$server/docs"
+    }
+    Copy-Item -LiteralPath "$repo/assets/forge-icon.png" -Destination "$server/assets"
     $zip = Join-Path $repo "dist/HardcoreProgression-$version.zip"
     Compress-Archive -LiteralPath (Join-Path $stage 'SPT_Runtime'),(Join-Path $stage 'BepInEx') -DestinationPath $zip -Force
     Get-ChildItem -LiteralPath $stage -Recurse -Filter '*.dll' | ForEach-Object {
