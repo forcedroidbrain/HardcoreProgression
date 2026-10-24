@@ -33,13 +33,13 @@
 
 По умолчанию прогрессия включена, изменения медицины и контейнеров выключены. Стартовый набор применяется только при наличии шаблона `Hardcore Playthrough`. Ограничения медицины и размеров контейнеров действуют на весь сервер; набор — только на создаваемых персонажей соответствующего шаблона.
 
-[Полное описание настроек и рецептов](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/configuration.md).
+[Полное описание настроек и рецептов](https://github.com/forcedroidbrain/HardcoreProgression/blob/v2.0.0/docs/configuration.md).
 
 ## Необязательные интеграции
 
 - **HardcoreRules:** ограничения сервисов, торговли и содержимого контейнера. Его конфиги не перезаписываются; whitelist-only сохраняет своё действие.
 - **Barterizer:** преобразование обычных денежных предложений в бартеры. Квестовые обмены Progression остаются отдельными. Сам Barterizer не вводит все ограничения HardcoreRules.
-- **OpenBarters:** необязательная оплата заменителями сохраняет открытие и повтор обмена через рейды. Проверена версия 1.0.1 из форка forcedroidbrain, cd66ed5, вместе с HardcoreRules 3.1.0 и Barterizer 0.1.3. Эти две интеграции также проверены отдельно и вместе без OpenBarters. [Границы тестирования](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/release-checks.md).
+- **OpenBarters:** необязательная оплата заменителями сохраняет открытие и повтор обмена через рейды. Проверена версия 1.0.1 из форка forcedroidbrain, cd66ed5, вместе с HardcoreRules 3.1.0 и Barterizer 0.1.3. Эти две интеграции также проверены отдельно и вместе без OpenBarters. [Границы тестирования](https://github.com/forcedroidbrain/HardcoreProgression/blob/v2.0.0/docs/release-checks.md).
 
 Better Keys, QuestBackport и LocalStackLimits не обязательны. Отсутствующие в базе записи каталога пропускаются. Fika не проверена.
 
@@ -55,11 +55,11 @@ Better Keys, QuestBackport и LocalStackLimits не обязательны. От
 
 ## Проверка файлов
 
-Обе релизные DLL завершили VirusTotal 24 октября 2026 года: [серверная — 0/70](https://www.virustotal.com/gui/file/f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509/detection), [клиентская — 0/71](https://www.virustotal.com/gui/file/85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44/detection). [Точные хеши](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/security-scans.md).
+Обе релизные DLL завершили VirusTotal 24 октября 2026 года: [серверная — 0/70](https://www.virustotal.com/gui/file/f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509/detection), [клиентская — 0/71](https://www.virustotal.com/gui/file/85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44/detection). [Точные хеши](https://github.com/forcedroidbrain/HardcoreProgression/blob/v2.0.0/docs/security-scans.md).
 
 ## Авторство и исходники
 
-Автор: **forcedroidbrain**. [Код, сборка и сообщения об ошибках](https://github.com/forcedroidbrain/HardcoreProgression).
+Автор: **forcedroidbrain**. [Код версии 2.0.0 и сборка](https://github.com/forcedroidbrain/HardcoreProgression/tree/v2.0.0) · [Сообщения об ошибках](https://github.com/forcedroidbrain/HardcoreProgression/issues).
 
 Для связей «ключ — задание» использованы данные MIT-проекта Better Keys NG: SirTyler, maxloo2 и flir. Лицензия и уведомления включены. Сторонние моды и игровые библиотеки в архив не входят.
 

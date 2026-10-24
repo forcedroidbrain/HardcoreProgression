@@ -33,13 +33,13 @@ Configs and technical descriptions use English. Player-facing strings are separa
 
 The default setup enables progression, leaves medicine/container rules disabled, and applies the starter kit only if the `Hardcore Playthrough` template exists. Optional medicine/container rules affect the whole server, including existing profiles. The kit affects only new characters created from that template.
 
-See the [configuration reference](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/configuration.md) for every setting and editable recipe.
+See the [configuration reference](https://github.com/forcedroidbrain/HardcoreProgression/blob/v2.0.0/docs/configuration.md) for every setting and editable recipe.
 
 ## Optional integrations
 
 - **HardcoreRules:** use its hardcore service/trading/container restrictions alongside progression. This mod does not overwrite its config. Whitelist-only restrictions still apply.
 - **Barterizer:** convert eligible regular cash offers to item barters. Our quest offers already use item barters and remain separate. Barterizer does not supply all HardcoreRules restrictions.
-- **OpenBarters:** optional substitute payments preserve the raid gate and repeat wait. Tested with the maintainer's fork, version 1.0.1 at cd66ed5, together with HardcoreRules 3.1.0 and Barterizer 0.1.3. These two integrations were also tested separately and together without OpenBarters. See [test scope](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/release-checks.md).
+- **OpenBarters:** optional substitute payments preserve the raid gate and repeat wait. Tested with the maintainer's fork, version 1.0.1 at cd66ed5, together with HardcoreRules 3.1.0 and Barterizer 0.1.3. These two integrations were also tested separately and together without OpenBarters. See [test scope](https://github.com/forcedroidbrain/HardcoreProgression/blob/v2.0.0/docs/release-checks.md).
 
 Better Keys, QuestBackport and LocalStackLimits are not required. Missing catalog quests/items are skipped. Fika is untested; mods that replace assortments, quest descriptions or raid saving require additional checks.
 
@@ -55,11 +55,11 @@ Turns eligible cash trader offers into item barters while preserving existing ba
 
 ## Executable scans
 
-Both release DLLs completed VirusTotal analysis on 2026-10-24: [server — 0/70](https://www.virustotal.com/gui/file/f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509/detection), [client — 0/71](https://www.virustotal.com/gui/file/85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44/detection). [Exact hashes](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/security-scans.md).
+Both release DLLs completed VirusTotal analysis on 2026-10-24: [server — 0/70](https://www.virustotal.com/gui/file/f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509/detection), [client — 0/71](https://www.virustotal.com/gui/file/85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44/detection). [Exact hashes](https://github.com/forcedroidbrain/HardcoreProgression/blob/v2.0.0/docs/security-scans.md).
 
 ## Credits and source
 
-By **forcedroidbrain**. [Source, build instructions and support](https://github.com/forcedroidbrain/HardcoreProgression).
+By **forcedroidbrain**. [Version 2.0.0 source and build instructions](https://github.com/forcedroidbrain/HardcoreProgression/tree/v2.0.0) · [Support](https://github.com/forcedroidbrain/HardcoreProgression/issues).
 
 Key-to-quest catalog relationships were prepared using MIT-licensed Better Keys NG data by SirTyler, maxloo2 and flir; its license and attribution are included. Optional mods and game assemblies are distributed separately.
 
