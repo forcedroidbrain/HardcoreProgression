@@ -57,7 +57,7 @@ Private evidence is under ignored `artifacts/gameplay-20261024-121903/`. Keep ra
 ## Before Forge submission
 
 - The scoped gameplay smoke tests above are complete. The default six-raid interval, other exit statuses, quest/profile isolation and optional starter-kit rules have automated coverage; they were not all replayed manually.
-- The original draft DLLs completed VirusTotal analysis: **0/71** each on 2026-10-24. See [reports and hashes](security-scans.md). Refresh reports for binaries rebuilt after the gameplay fix; a newly generated lookup URL alone is not scan evidence.
-- Resolve Forge's restriction on substantial AI-written functionality. Enabling Contains AI Content alone does not resolve eligibility. Research/code/testing/documentation assistance and generated artwork must be disclosed accurately.
+- Both rebuilt DLLs completed VirusTotal analysis on 2026-10-24: server **0/70**, client **0/71**. The [reports and hashes](security-scans.md) match the final gameplay binaries and package. Any later binary change needs new reports.
+- Keep the accurate Codex/artwork disclosure. The current sp-mod.com guidelines reviewed on 2026-10-24 do not contain the old domain's AI-code restriction; do not present that historical text as a current blocker. Enable an AI-content field if it is offered by the submission form.
 - Confirm the release archive is built from the public source revision and contains only our own binaries, configuration, docs and required license notices. Set category/tags and SPT constraints to tested versions; Fika remains unknown.
-- Recheck the live [Content Guidelines](https://forge.sp-tarkov.com/content-guidelines) and [Community Standards](https://forge.sp-tarkov.com/community-standards).
+- Current [Content Guidelines](https://sp-mod.com/content-guidelines) and [Community Standards](https://sp-mod.com/community-standards) were checked on 2026-10-24; see [submission preparation](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/forge-submission.md).

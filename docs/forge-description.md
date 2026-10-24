@@ -33,13 +33,13 @@ Configs and technical descriptions use English. Player-facing strings are separa
 
 The default setup enables progression, leaves medicine/container rules disabled, and applies the starter kit only if the `Hardcore Playthrough` template exists. Optional medicine/container rules affect the whole server, including existing profiles. The kit affects only new characters created from that template.
 
-See the [configuration reference](https://github.com/forcedroidbrain/HardcoreProgression/blob/main/docs/configuration.md) for every setting and editable recipe.
+See the [configuration reference](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/configuration.md) for every setting and editable recipe.
 
 ## Optional integrations
 
 - **HardcoreRules:** use its hardcore service/trading/container restrictions alongside progression. This mod does not overwrite its config. Whitelist-only restrictions still apply.
 - **Barterizer:** convert eligible regular cash offers to item barters. Our quest offers already use item barters and remain separate. Barterizer does not supply all HardcoreRules restrictions.
-- **OpenBarters:** optional substitute payments preserve the raid gate and repeat wait. Tested with the maintainer's fork, version 1.0.1 at cd66ed5, together with HardcoreRules 3.1.0 and Barterizer 0.1.3. These two integrations were also tested separately and together without OpenBarters. See [test scope](https://github.com/forcedroidbrain/HardcoreProgression/blob/main/docs/release-checks.md).
+- **OpenBarters:** optional substitute payments preserve the raid gate and repeat wait. Tested with the maintainer's fork, version 1.0.1 at cd66ed5, together with HardcoreRules 3.1.0 and Barterizer 0.1.3. These two integrations were also tested separately and together without OpenBarters. See [test scope](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/release-checks.md).
 
 Better Keys, QuestBackport and LocalStackLimits are not required. Missing catalog quests/items are skipped. Fika is untested; mods that replace assortments, quest descriptions or raid saving require additional checks.
 
@@ -55,7 +55,7 @@ Turns eligible cash trader offers into item barters while preserving existing ba
 
 ## Executable scans
 
-The original draft DLLs completed VirusTotal analysis with **0/71 detections** on 2026-10-24. Both current DLLs were rebuilt after a gameplay fix and require fresh verified reports before submission. [Current hashes and original reports](https://github.com/forcedroidbrain/HardcoreProgression/blob/main/docs/security-scans.md).
+Both release DLLs completed VirusTotal analysis on 2026-10-24: [server — 0/70](https://www.virustotal.com/gui/file/f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509/detection), [client — 0/71](https://www.virustotal.com/gui/file/85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44/detection). [Exact hashes](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/security-scans.md).
 
 ## Credits and source
 
@@ -63,4 +63,4 @@ By **forcedroidbrain**. [Source, build instructions and support](https://github.
 
 Key-to-quest catalog relationships were prepared using MIT-licensed Better Keys NG data by SirTyler, maxloo2 and flir; its license and attribution are included. Optional mods and game assemblies are distributed separately.
 
-Codex assisted with research, code development/revision, automated testing and documentation. The icon was generated using OpenAI image generation. **Contains AI Content** must be enabled for this submission. Forge eligibility under its AI-code policy must be resolved before submission; this draft does not assert approval.
+Codex assisted with research, code development/revision, automated testing and documentation. The icon was generated using OpenAI image generation. The maintainer performed the manual gameplay checks and is responsible for the released code. This description does not claim that the entire codebase was AI-written.

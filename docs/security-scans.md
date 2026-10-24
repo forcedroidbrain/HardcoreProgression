@@ -1,15 +1,15 @@
 # Executable scan reports — 2.0.0
 
-The original draft's two DLLs were submitted to VirusTotal with the maintainer's permission. Completed report pages were verified on **2026-10-24**. Each displayed **0 detections / 71 vendors** at verification. This records the observed scan result, not a guarantee of safety or a substitute for source review and gameplay testing.
+Both current DLLs were submitted to VirusTotal with the maintainer's permission. Completed report pages were verified on **2026-10-24**: the server displayed **0/70**, and the client **0/71**. These are observed detection counts, not a guarantee of safety or a substitute for source review and gameplay testing.
 
-The subsequent task-list formatting fix changed both assemblies because they compile the shared formatter. Completed scans for the current binaries have not been verified:
+These are the rebuilt files used together in the final clean gameplay check:
 
-| Current binary | SHA-256 | Scan status |
+| Current binary | SHA-256 | Completed report |
 | --- | --- | --- |
-| `HardcoreProgression.dll` | `f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509` | Pending verification |
-| `HardcoreProgression.Client.dll` | `85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44` | Pending verification |
+| `HardcoreProgression.dll` | `f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509` | [VirusTotal — 0/70](https://www.virustotal.com/gui/file/f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509/detection) |
+| `HardcoreProgression.Client.dll` | `85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44` | [VirusTotal — 0/71](https://www.virustotal.com/gui/file/85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44/detection) |
 
-The completed reports below apply only to the original draft files, which are no longer the current package. Refresh reports for the current hashes before publication.
+The original draft files were also scanned before the task-list formatting fix. Those historical reports are retained below for traceability and do not describe the current package.
 
 | Binary | SHA-256 | Completed report |
 | --- | --- | --- |
