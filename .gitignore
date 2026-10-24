@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.dotnet-home/
+artifacts/
+dist/
+client/output/
+*.user
+*.log
+raid-progress.json*
+exchange-catalog.json

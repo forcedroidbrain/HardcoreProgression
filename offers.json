@@ -1,0 +1,2851 @@
+[
+  {
+    "QuestName": "Background Check",
+    "ItemName": "Machinery key",
+    "Id": "99e632b0805a74b3812d1279",
+    "Kind": "key",
+    "Template": "590de52486f774226a0c24c2",
+    "Quest": "5936da9e86f7742d65037edf",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 2,
+    "Costs": []
+  },
+  {
+    "QuestName": "Background Check",
+    "ItemName": "Machinery key",
+    "Id": "a68a3f2cca2d92fe268c2ab1",
+    "Kind": "key",
+    "Template": "5937ee6486f77408994ba448",
+    "Quest": "5936da9e86f7742d65037edf",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 2,
+    "Costs": []
+  },
+  {
+    "QuestName": "Delivery From the Past",
+    "ItemName": "Tarcone Director's office key",
+    "Id": "9dedb2411581468b468b1bbc",
+    "Kind": "key",
+    "Template": "5780d0532459777a5108b9a2",
+    "Quest": "59674eb386f774539f14813a",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 5,
+    "Costs": []
+  },
+  {
+    "QuestName": "Bad Rep Evidence",
+    "ItemName": "Factory emergency exit key",
+    "Id": "4d214cf20b38ad07e1853517",
+    "Kind": "key",
+    "Template": "5448ba0b4bdc2d02308b456c",
+    "Quest": "5967530a86f77462ba22226b",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 6,
+    "Costs": []
+  },
+  {
+    "QuestName": "Bad Rep Evidence",
+    "ItemName": "Portable bunkhouse key",
+    "Id": "dda9d9cd6a75924b0f89411a",
+    "Kind": "key",
+    "Template": "5938144586f77473c2087145",
+    "Quest": "5967530a86f77462ba22226b",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 6,
+    "Costs": []
+  },
+  {
+    "QuestName": "Ice Cream Cones",
+    "ItemName": "ZB-014 key",
+    "Id": "b2bd51eeb8d69aa2d21a01ea",
+    "Kind": "key",
+    "Template": "591afe0186f77431bd616a11",
+    "Quest": "59675d6c86f7740a842fc482",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 9,
+    "Costs": []
+  },
+  {
+    "QuestName": "Shaking Up the Teller",
+    "ItemName": "Dorm room 214 key",
+    "Id": "b1e25e68454f67cdd0ede354",
+    "Kind": "key",
+    "Template": "5780cf942459777df90dcb72",
+    "Quest": "5967725e86f774601a446662",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Shaking Up the Teller",
+    "ItemName": "Dorm room 203 key",
+    "Id": "58024c0b1ff6bc5dd437946c",
+    "Kind": "key",
+    "Template": "5938504186f7740991483f30",
+    "Quest": "5967725e86f774601a446662",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Operation Aquarius - Part 1",
+    "ItemName": "Dorm room 206 key",
+    "Id": "6b7b69190b85672a9fef4e5f",
+    "Kind": "key",
+    "Template": "5938603e86f77435642354f4",
+    "Quest": "59689fbd86f7740d137ebfc4",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 6,
+    "Costs": []
+  },
+  {
+    "QuestName": "Pharmacist",
+    "ItemName": "Dorm room 114 key",
+    "Id": "e4b7cb0aa3a40bab1b9f7e3b",
+    "Kind": "key",
+    "Template": "59387a4986f77401cc236e62",
+    "Quest": "5969f9e986f7741dde183a50",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 10,
+    "Costs": []
+  },
+  {
+    "QuestName": "The Extortionist",
+    "ItemName": "Unknown key",
+    "Id": "4e42d3c0ee97733927bbf0b6",
+    "Kind": "key",
+    "Template": "593962ca86f774068014d9af",
+    "Quest": "596b43fb86f77457ca186186",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 7,
+    "Costs": []
+  },
+  {
+    "QuestName": "Golden Swag",
+    "ItemName": "Trailer park portable cabin key",
+    "Id": "8af4cdeef8d044705abcd801",
+    "Kind": "key",
+    "Template": "5913611c86f77479e0084092",
+    "Quest": "5979eee086f774311955e614",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 8,
+    "Costs": []
+  },
+  {
+    "QuestName": "Golden Swag",
+    "ItemName": "Dorm room 303 key",
+    "Id": "fb45a0a8b2ef37d6f35e6c3f",
+    "Kind": "key",
+    "Template": "593aa4be86f77457f56379f8",
+    "Quest": "5979eee086f774311955e614",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 8,
+    "Costs": []
+  },
+  {
+    "QuestName": "Chemical - Part 1",
+    "ItemName": "Dorm room 220 key",
+    "Id": "3db99d211abf20cc01637a8a",
+    "Kind": "key",
+    "Template": "5780cfa52459777dfb276eb1",
+    "Quest": "5979f9ba86f7740f6c3fe9f2",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 10,
+    "Costs": []
+  },
+  {
+    "QuestName": "Chemical - Part 2",
+    "ItemName": "Dorm room 220 key",
+    "Id": "daa9435684de2f1ab1054c83",
+    "Kind": "key",
+    "Template": "5780cfa52459777dfb276eb1",
+    "Quest": "597a0b2986f77426d66c0633",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 10,
+    "Costs": []
+  },
+  {
+    "QuestName": "Trust Regain",
+    "ItemName": "Military checkpoint key",
+    "Id": "fbc7f14157491d8aff4f4bb1",
+    "Kind": "key",
+    "Template": "5913915886f774123603c392",
+    "Quest": "59c9392986f7742f6923add2",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Trust Regain",
+    "ItemName": "ZB-014 key",
+    "Id": "2f7ca7ca48ed5cccc14d1d74",
+    "Kind": "key",
+    "Template": "591afe0186f77431bd616a11",
+    "Quest": "59c9392986f7742f6923add2",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Trust Regain",
+    "ItemName": "Dorm room 303 key",
+    "Id": "94dc25aa660dccbc603f1a3a",
+    "Kind": "key",
+    "Template": "593aa4be86f77457f56379f8",
+    "Quest": "59c9392986f7742f6923add2",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Spa Tour - Part 4",
+    "ItemName": "Health Resort west wing room 220 key",
+    "Id": "fa4c98b729e84055ee531b17",
+    "Kind": "key",
+    "Template": "5a0ee34586f774023b6ee092",
+    "Quest": "5a03296886f774569778596a",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 12,
+    "Costs": []
+  },
+  {
+    "QuestName": "Spa Tour - Part 4",
+    "ItemName": "Health Resort west wing room 219 key",
+    "Id": "a3f6b89da7b11c5874cc4898",
+    "Kind": "key",
+    "Template": "5a13ef0686f7746e5a411744",
+    "Quest": "5a03296886f774569778596a",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 12,
+    "Costs": []
+  },
+  {
+    "QuestName": "The Cult - Part 2",
+    "ItemName": "Dorm room 314 marked key",
+    "Id": "45cee3920f30ca0a256d592d",
+    "Kind": "key",
+    "Template": "5780cf7f2459777de4559322",
+    "Quest": "5a27ba1c86f77461ea5a3c56",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 18,
+    "Costs": []
+  },
+  {
+    "QuestName": "Cargo X - Part 1",
+    "ItemName": "Health Resort east wing room 306 key",
+    "Id": "91fde88ae236bb57ba7ad734",
+    "Kind": "key",
+    "Template": "5a145d4786f7744cbb6f4a12",
+    "Quest": "5a27bb1e86f7741f27621b7e",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 12,
+    "Costs": []
+  },
+  {
+    "QuestName": "Cargo X - Part 1",
+    "ItemName": "Health Resort east wing room 308 key",
+    "Id": "24e20113e460b5cefca8ebc0",
+    "Kind": "key",
+    "Template": "5a145d7b86f7744cbb6f4a13",
+    "Quest": "5a27bb1e86f7741f27621b7e",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 12,
+    "Costs": []
+  },
+  {
+    "QuestName": "Wet Job - Part 5",
+    "ItemName": "Health Resort universal utility room key",
+    "Id": "627a139c81f332c6ef37a44b",
+    "Kind": "key",
+    "Template": "5a0ea79b86f7741d4a35298e",
+    "Quest": "5a27bc6986f7741c7358402b",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 14,
+    "Costs": []
+  },
+  {
+    "QuestName": "Wet Job - Part 5",
+    "ItemName": "Health Resort east wing room 328 key",
+    "Id": "f29210df4c2fe9cf5cc1bccc",
+    "Kind": "key",
+    "Template": "5a0eee1486f77402aa773226",
+    "Quest": "5a27bc6986f7741c7358402b",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 14,
+    "Costs": []
+  },
+  {
+    "QuestName": "Health Care Privacy - Part 2",
+    "ItemName": "Health Resort west wing room 306 key",
+    "Id": "29c9fde784bb7265534e32be",
+    "Kind": "key",
+    "Template": "5a13f46386f7741dd7384b04",
+    "Quest": "5a68663e86f774501078f78a",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Gunsmith - Part 1",
+    "ItemName": "MP-133 custom plastic forestock with rails",
+    "Id": "269cb0fb6a9ec58c3359e06e",
+    "Kind": "part",
+    "Template": "55d45f484bdc2d972f8b456d",
+    "Quest": "5ac23c6186f7741247042bad",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 2,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 1",
+    "ItemName": "MP-133/153 plastic pistol grip",
+    "Id": "29028c3005c2125830e601c1",
+    "Kind": "part",
+    "Template": "56083a334bdc2dc8488b4571",
+    "Quest": "5ac23c6186f7741247042bad",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 2,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 1",
+    "ItemName": "GK-02 12ga muzzle brake",
+    "Id": "cbe473ed49a36f7d7a7c7952",
+    "Kind": "part",
+    "Template": "58272d7f2459774f6311ddfd",
+    "Quest": "5ac23c6186f7741247042bad",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 2,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 1",
+    "ItemName": "Zenit RK-6 tactical foregrip",
+    "Id": "ca378c7ae4f4b5eb02f3bdbe",
+    "Kind": "part",
+    "Template": "5c1bc7752e221602b1779b34",
+    "Quest": "5ac23c6186f7741247042bad",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 2,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 2",
+    "ItemName": "AK-74 5.45x39 6L31 60-round magazine",
+    "Id": "6be72641c45aaa04714a51ae",
+    "Kind": "part",
+    "Template": "55d482194bdc2d1d4e8b456b",
+    "Quest": "5ac2426c86f774138762edfe",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 5,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 2",
+    "ItemName": "AK Zenit RK-3 pistol grip",
+    "Id": "5b099828debb63e37b8fd1bd",
+    "Kind": "part",
+    "Template": "5649ae4a4bdc2d1b2b8b4588",
+    "Quest": "5ac2426c86f774138762edfe",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 5,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 2",
+    "ItemName": "AKS-74U Zenit B-11 handguard",
+    "Id": "5610ab2cb30a7234af43305a",
+    "Kind": "part",
+    "Template": "57ffa9f4245977728561e844",
+    "Quest": "5ac2426c86f774138762edfe",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 5,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 2",
+    "ItemName": "Zenit RK-6 tactical foregrip",
+    "Id": "197243166f222109f6f8d947",
+    "Kind": "part",
+    "Template": "5c1bc7752e221602b1779b34",
+    "Quest": "5ac2426c86f774138762edfe",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 5,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 3",
+    "ItemName": "HK MP5SD 9x19 sound suppressor",
+    "Id": "e0edfd4238fc76988f39c113",
+    "Kind": "part",
+    "Template": "5926d33d86f77410de68ebc0",
+    "Quest": "5ac2428686f77412450b42bf",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 7,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 4
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 3",
+    "ItemName": "HK MP5SD 9x19 upper receiver",
+    "Id": "215a55fab03d967663c2c22f",
+    "Kind": "part",
+    "Template": "5926f2e086f7745aae644231",
+    "Quest": "5ac2428686f77412450b42bf",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 7,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 3",
+    "ItemName": "HK MP5SD polymer handguard",
+    "Id": "08313ec448a914150901260b",
+    "Kind": "part",
+    "Template": "5926f34786f77469195bfe92",
+    "Quest": "5ac2428686f77412450b42bf",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 7,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 3",
+    "ItemName": "HK MP5 9x19 X Products X-5 50-round drum magazine",
+    "Id": "c0bc1df2726372f645d0ca4d",
+    "Kind": "part",
+    "Template": "5a351711c4a282000b1521a4",
+    "Quest": "5ac2428686f77412450b42bf",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 7,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 3",
+    "ItemName": "Zenit RK-6 tactical foregrip",
+    "Id": "c9eaa507e6383508a6c5d3bc",
+    "Kind": "part",
+    "Template": "5c1bc7752e221602b1779b34",
+    "Quest": "5ac2428686f77412450b42bf",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 7,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 3",
+    "ItemName": "HK MP5 CAA HX-5 handguard",
+    "Id": "f8f5b21a88a32cf2890e7843",
+    "Kind": "part",
+    "Template": "5d010d1cd7ad1a59283b1ce7",
+    "Quest": "5ac2428686f77412450b42bf",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 7,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Farming - Part 3",
+    "ItemName": "Tarcone Director's office key",
+    "Id": "09b5ddb89babf737c02f4c51",
+    "Kind": "key",
+    "Template": "5780d0532459777a5108b9a2",
+    "Quest": "5ac3462b86f7741d6118b983",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 14,
+    "Costs": []
+  },
+  {
+    "QuestName": "Gunsmith - Part 5",
+    "ItemName": "M870 Magpul MOE handguard",
+    "Id": "948192356814916c2ff9f49e",
+    "Kind": "part",
+    "Template": "5a788068c5856700137e4c8f",
+    "Quest": "5ae3267986f7742a413592fe",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 10,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 6",
+    "ItemName": "AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine",
+    "Id": "7222137c673b8a1cc2865ee5",
+    "Kind": "part",
+    "Template": "59d6272486f77466146386ff",
+    "Quest": "5ae3270f86f77445ba41d4dd",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 14,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 6",
+    "ItemName": "Fortis Shift tactical foregrip",
+    "Id": "daed26ea35267399a45e0320",
+    "Kind": "part",
+    "Template": "59f8a37386f7747af3328f06",
+    "Quest": "5ae3270f86f77445ba41d4dd",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 14,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 8",
+    "ItemName": "AK Zenit DTK-1 7.62x39/5.45x39 muzzle brake-compensator",
+    "Id": "0400d96c02ded2b0ae056988",
+    "Kind": "part",
+    "Template": "5649ab884bdc2ded0b8b457f",
+    "Quest": "5ae3277186f7745973054106",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 8",
+    "ItemName": "AK Zenit RK-3 pistol grip",
+    "Id": "32ecbddf136f5d3ad7b5d230",
+    "Kind": "part",
+    "Template": "5649ae4a4bdc2d1b2b8b4588",
+    "Quest": "5ae3277186f7745973054106",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 8",
+    "ItemName": "AK Zenit B-33 dust cover",
+    "Id": "b15661023d3cca052d125526",
+    "Kind": "part",
+    "Template": "5649af884bdc2d1b2b8b4589",
+    "Quest": "5ae3277186f7745973054106",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 8",
+    "ItemName": "AK Zenit PT-3 \"Klassika\" stock",
+    "Id": "427d93f8eeab3f2a49291c44",
+    "Kind": "part",
+    "Template": "59ecc3dd86f7746dc827481c",
+    "Quest": "5ae3277186f7745973054106",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 8",
+    "ItemName": "Zenit Klesch-2IKS IR illuminator with laser",
+    "Id": "5e9c5d1586b51d1eb21fdd4a",
+    "Kind": "part",
+    "Template": "5a5f1ce64f39f90b401987bc",
+    "Quest": "5ae3277186f7745973054106",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 8",
+    "ItemName": "AK-12 5.45x39 30-round magazine",
+    "Id": "eab47c5da6e47a23ac79e274",
+    "Kind": "part",
+    "Template": "5bed61680db834001d2c45ab",
+    "Quest": "5ae3277186f7745973054106",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 8",
+    "ItemName": "Zenit RK-0 tactical foregrip",
+    "Id": "6ab08dcde974356e08bccd79",
+    "Kind": "part",
+    "Template": "5c1bc4812e22164bef5cfde7",
+    "Quest": "5ae3277186f7745973054106",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 8",
+    "ItemName": "AK Zenit B-30 handguard with B-31S upper handguard rail",
+    "Id": "5a0304a470e795c7ee7f986e",
+    "Kind": "part",
+    "Template": "5efaf417aeb21837e749c7f2",
+    "Quest": "5ae3277186f7745973054106",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 15",
+    "ItemName": "L3Harris AN/PEQ-15 tactical device",
+    "Id": "7d2b8c1c17313ae87423abce",
+    "Kind": "part",
+    "Template": "544909bb4bdc2d6f028b4577",
+    "Quest": "5ae3280386f7742a41359364",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 27,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 15",
+    "ItemName": "NSPU-M 3.5x dovetail night vision scope",
+    "Id": "eb1eec89fced5eff5f6b8e60",
+    "Kind": "part",
+    "Template": "5a7c74b3e899ef0014332c29",
+    "Quest": "5ae3280386f7742a41359364",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 27,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 15",
+    "ItemName": "AR-15 FAB Defense GL-SHOCK buttstock",
+    "Id": "dbdf078cd26473af004a5c0b",
+    "Kind": "part",
+    "Template": "5a9eb32da2750c00171b3f9c",
+    "Quest": "5ae3280386f7742a41359364",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 27,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Database - Part 2",
+    "ItemName": "OLI logistics department office key",
+    "Id": "84b656e31de7b5074ddaed0d",
+    "Kind": "key",
+    "Template": "5ad5cfbd86f7742c825d6104",
+    "Quest": "5ae4493d86f7744b8e15aa8f",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Supervisor",
+    "ItemName": "Goshan cash register key",
+    "Id": "edaaeab1ce336215456e3825",
+    "Kind": "key",
+    "Template": "5ad7247386f7747487619dc3",
+    "Quest": "5ae449d986f774453a54a7e1",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 40,
+    "Costs": []
+  },
+  {
+    "QuestName": "Gunsmith - Part 17",
+    "ItemName": "Magpul AFG tactical foregrip (Olive Drab)",
+    "Id": "541d628deb383a99ddf6c37b",
+    "Kind": "part",
+    "Template": "588226ef24597767af46e39c",
+    "Quest": "5b47749f86f7746c5d6a5fd4",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 31,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 17",
+    "ItemName": "Zenit Klesch-2U tactical flashlight",
+    "Id": "773752577059da373029a683",
+    "Kind": "part",
+    "Template": "5b3a337e5acfc4704b4a19a0",
+    "Quest": "5b47749f86f7746c5d6a5fd4",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 31,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 17",
+    "ItemName": "RPK-16 buffer tube",
+    "Id": "05ef01717ccfaae5c1b2a5ef",
+    "Kind": "part",
+    "Template": "5beec8b20db834001961942a",
+    "Quest": "5b47749f86f7746c5d6a5fd4",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 31,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 17",
+    "ItemName": "SLR-106/AK 5.56x45 Circle 10 30-round magazine",
+    "Id": "2f2348376839ad1ff274184f",
+    "Kind": "part",
+    "Template": "5c0548ae0db834001966a3c2",
+    "Quest": "5b47749f86f7746c5d6a5fd4",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 31,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 17",
+    "ItemName": "Ferfrans CRD 5.56x45 Concussion Reduction Device",
+    "Id": "eb80e6a47b0e1fe6986be749",
+    "Kind": "part",
+    "Template": "5f6339d53ada5942720e2dc3",
+    "Quest": "5b47749f86f7746c5d6a5fd4",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 31,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 12",
+    "ItemName": "AR-15 Tactical Dynamics Skeletonized pistol grip",
+    "Id": "6b988b3d75e3c5d4a2ba8b75",
+    "Kind": "part",
+    "Template": "5b07db875acfc40dc528a5f6",
+    "Quest": "5b47799d86f7746c5d6a5fd8",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 23,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 12",
+    "ItemName": "Steiner LAS/TAC 2 tactical flashlight",
+    "Id": "e041d9490eebe23dc2817501",
+    "Kind": "part",
+    "Template": "5b07dd285acfc4001754240d",
+    "Quest": "5b47799d86f7746c5d6a5fd8",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 23,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 3
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 12",
+    "ItemName": "Yankee Hill Annihilator multi-caliber flash hider",
+    "Id": "2a264028b9b7d81ce35b350e",
+    "Kind": "part",
+    "Template": "5b3a16655acfc40016387a2a",
+    "Quest": "5b47799d86f7746c5d6a5fd8",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 23,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 18",
+    "ItemName": "AK Magpul MOE AKM handguard (Black)",
+    "Id": "8c800f4cc16989e5ec90ea3b",
+    "Kind": "part",
+    "Template": "57cff947245977638e6f2a19",
+    "Quest": "5b477b6f86f7747290681823",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 33,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 18",
+    "ItemName": "Magpul M-LOK AFG tactical foregrip (Black)",
+    "Id": "2b2182c037813481585142a3",
+    "Kind": "part",
+    "Template": "57cffb66245977632f391a99",
+    "Quest": "5b477b6f86f7747290681823",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 33,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 18",
+    "ItemName": "AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine",
+    "Id": "ac80eb0fb35fce998447e362",
+    "Kind": "part",
+    "Template": "59d6272486f77466146386ff",
+    "Quest": "5b477b6f86f7747290681823",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 33,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 18",
+    "ItemName": "Rotor 43 7.62x39 sound suppressor",
+    "Id": "31a57e7b30453e5c8f48c699",
+    "Kind": "part",
+    "Template": "5a9fbacda2750c00141e080f",
+    "Quest": "5b477b6f86f7747290681823",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 33,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 8
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 18",
+    "ItemName": "AKM/AK-74 Magpul Zhukov-S stock",
+    "Id": "c5a8d9b89cc9fca1681e901c",
+    "Kind": "part",
+    "Template": "5b0e794b5acfc47a877359b2",
+    "Quest": "5b477b6f86f7747290681823",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 33,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 18",
+    "ItemName": "AK Magpul MOE pistol grip (Black)",
+    "Id": "ae21480d1bf01058e94b6c90",
+    "Kind": "part",
+    "Template": "5b30ac585acfc433000eb79c",
+    "Quest": "5b477b6f86f7747290681823",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 33,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 18",
+    "ItemName": "EOTech HHS-1 hybrid sight",
+    "Id": "86f9dd176a8373317ac64697",
+    "Kind": "part",
+    "Template": "5c07dd120db834001c39092d",
+    "Quest": "5b477b6f86f7747290681823",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 33,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 9
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 20",
+    "ItemName": "Holosun LS321 Tactical device",
+    "Id": "be36a4c2d926f2d05c111c87",
+    "Kind": "part",
+    "Template": "57fd23e32459772d0805bcf1",
+    "Quest": "5b477f7686f7744d1b23c4d2",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 37,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 20",
+    "ItemName": "Aimpoint Micro T-1 reflex sight",
+    "Id": "cd8d3914680f4c306cf16275",
+    "Kind": "part",
+    "Template": "58d399e486f77442e0016fe7",
+    "Quest": "5b477f7686f7744d1b23c4d2",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 37,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 4
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 20",
+    "ItemName": "Nightforce ATACR 7-35x56 34mm riflescope",
+    "Id": "3441af0809dad51fc366328b",
+    "Kind": "part",
+    "Template": "5aa66be6e5b5b0214e506e97",
+    "Quest": "5b477f7686f7744d1b23c4d2",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 37,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 17
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 20",
+    "ItemName": "M14 UltiMAK M8 Forward Optic mount",
+    "Id": "856b0bd52eb0a7bb4d5d7c08",
+    "Kind": "part",
+    "Template": "5addbfbb5acfc400194dbcf7",
+    "Quest": "5b477f7686f7744d1b23c4d2",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 37,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 22",
+    "ItemName": "KAC QDSS NT4 5.56x45 sound suppressor (FDE)",
+    "Id": "3b49c8551521c12188c2bbc6",
+    "Kind": "part",
+    "Template": "57dbb57e2459774673234890",
+    "Quest": "5b47825886f77468074618d3",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 39,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 8
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 22",
+    "ItemName": "Trijicon REAP-IR thermal scope",
+    "Id": "b05f3bbfea55390bebe8f7ce",
+    "Kind": "part",
+    "Template": "5a1eaa87fcdbcb001865f75e",
+    "Quest": "5b47825886f77468074618d3",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 39,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 73
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 22",
+    "ItemName": "AR-15 Alexander Arms MK10 rifle length handguard",
+    "Id": "5c4f5551c19e32cbbef9bcc6",
+    "Kind": "part",
+    "Template": "5b2cfa535acfc432ff4db7a0",
+    "Quest": "5b47825886f77468074618d3",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 39,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 4
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Vitamins - Part 1",
+    "ItemName": "Health Resort west wing office room 112 key",
+    "Id": "003449dcac5371de945e366f",
+    "Kind": "key",
+    "Template": "5a0dc95c86f77452440fc675",
+    "Quest": "5b478eca86f7744642012254",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 22,
+    "Costs": []
+  },
+  {
+    "QuestName": "Vitamins - Part 1",
+    "ItemName": "EMERCOM medical unit key",
+    "Id": "0590a8f2aca2174291e1f1b6",
+    "Kind": "key",
+    "Template": "5ad5db3786f7743568421cce",
+    "Quest": "5b478eca86f7744642012254",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 22,
+    "Costs": []
+  },
+  {
+    "QuestName": "Lend-Lease - Part 1",
+    "ItemName": "Health Resort west wing room 216 key",
+    "Id": "673f76f596541fa469284ca0",
+    "Kind": "key",
+    "Template": "5a0ee30786f774023b6ee08f",
+    "Quest": "5b4794cb86f774598100d5d4",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 25,
+    "Costs": []
+  },
+  {
+    "QuestName": "Lend-Lease - Part 1",
+    "ItemName": "Health Resort east wing room 306 key",
+    "Id": "bac125a0f2de7655687a0f70",
+    "Kind": "key",
+    "Template": "5a145d4786f7744cbb6f4a12",
+    "Quest": "5b4794cb86f774598100d5d4",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 25,
+    "Costs": []
+  },
+  {
+    "QuestName": "Lend-Lease - Part 1",
+    "ItemName": "Health Resort east wing room 308 key",
+    "Id": "8fe30998882e82b490fe296a",
+    "Kind": "key",
+    "Template": "5a145d7b86f7744cbb6f4a13",
+    "Quest": "5b4794cb86f774598100d5d4",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 25,
+    "Costs": []
+  },
+  {
+    "QuestName": "The Huntsman Path - Woods Keeper",
+    "ItemName": "Shturman's stash key",
+    "Id": "98b2dd1a30e1164bf45420c9",
+    "Kind": "key",
+    "Template": "5d08d21286f774736e7c94c3",
+    "Quest": "5d25e2ee86f77443e35162ea",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Fishing Place",
+    "ItemName": "TerraGroup Labs access keycard",
+    "Id": "e1b834e91aa8afe83f283427",
+    "Kind": "key",
+    "Template": "5c94bbff86f7747ee735c08f",
+    "Quest": "5d25e4b786f77408251c4bfc",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 25,
+    "Costs": []
+  },
+  {
+    "QuestName": "Colleagues - Part 2",
+    "ItemName": "Cottage back door key",
+    "Id": "99a107c84d893fa797b6e12d",
+    "Kind": "key",
+    "Template": "5a0eb6ac86f7743124037a28",
+    "Quest": "5edaba7c0c502106f869bc02",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Colleagues - Part 3",
+    "ItemName": "TerraGroup Labs access keycard",
+    "Id": "e071be7f349e7e659a69f9ab",
+    "Kind": "key",
+    "Template": "5c94bbff86f7747ee735c08f",
+    "Quest": "5edac34d0bb72a50635c2bfa",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "TerraGroup Employee",
+    "ItemName": "Keycard with a blue marking",
+    "Id": "b4f2e92feb0aa4cfb96580b8",
+    "Kind": "key",
+    "Template": "5efde6b4f5448336730dbd61",
+    "Quest": "5edac63b930f5454f51e128b",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 23,
+    "Costs": []
+  },
+  {
+    "QuestName": "Chemistry Closet",
+    "ItemName": "Health Resort office key with a blue tape",
+    "Id": "6560713af5432f5432450c26",
+    "Kind": "key",
+    "Template": "5eff09cd30a7dc22fd1ddfed",
+    "Quest": "5f04886a3937dc337a6b8238",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 22,
+    "Costs": []
+  },
+  {
+    "QuestName": "Revision - Reserve",
+    "ItemName": "RB-ST key",
+    "Id": "2f30880acf18a19645d6c604",
+    "Kind": "key",
+    "Template": "5d9f1fa686f774726974a992",
+    "Quest": "6086c852c945025d41566124",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 14,
+    "Costs": []
+  },
+  {
+    "QuestName": "Disease History",
+    "ItemName": "RB-SMP key",
+    "Id": "f14149a70d4feeb892c599f1",
+    "Kind": "key",
+    "Template": "5d947d3886f774447b415893",
+    "Quest": "60896e28e4a85c72ef3fa301",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 15,
+    "Costs": []
+  },
+  {
+    "QuestName": "Disease History",
+    "ItemName": "RB-KSM key",
+    "Id": "dfb5d8dc6a87c0ed9307de42",
+    "Kind": "key",
+    "Template": "5d947d4e86f774447b415895",
+    "Quest": "60896e28e4a85c72ef3fa301",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 15,
+    "Costs": []
+  },
+  {
+    "QuestName": "Surplus Goods",
+    "ItemName": "RB-ST key",
+    "Id": "e614a0813582f43ce2021e30",
+    "Kind": "key",
+    "Template": "5d9f1fa686f774726974a992",
+    "Quest": "6089732b59b92115597ad789",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 13,
+    "Costs": []
+  },
+  {
+    "QuestName": "Inventory Check",
+    "ItemName": "RB-OB key",
+    "Id": "265cbea25aef1d391d161650",
+    "Kind": "key",
+    "Template": "5d80c6c586f77440351beef1",
+    "Quest": "608974af4b05530f55550c21",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 15,
+    "Costs": []
+  },
+  {
+    "QuestName": "Inventory Check",
+    "ItemName": "RB-ORB1 key",
+    "Id": "54fd915a5826a11b478b3d91",
+    "Kind": "key",
+    "Template": "5d80ccac86f77470841ff452",
+    "Quest": "608974af4b05530f55550c21",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 15,
+    "Costs": []
+  },
+  {
+    "QuestName": "Inventory Check",
+    "ItemName": "RB-ORB2 key",
+    "Id": "fe519e623894070dc146c6fa",
+    "Kind": "key",
+    "Template": "5d80ccdd86f77474f7575e02",
+    "Quest": "608974af4b05530f55550c21",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 15,
+    "Costs": []
+  },
+  {
+    "QuestName": "Inventory Check",
+    "ItemName": "RB-ORB3 key",
+    "Id": "12dae1218b734b7f8c2aa81b",
+    "Kind": "key",
+    "Template": "5d80cd1a86f77402aa362f42",
+    "Quest": "608974af4b05530f55550c21",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 15,
+    "Costs": []
+  },
+  {
+    "QuestName": "Top Secret",
+    "ItemName": "Radar station commandant room key",
+    "Id": "3ab7466b02f14a4b72e9d099",
+    "Kind": "key",
+    "Template": "62987c658081af308d7558c6",
+    "Quest": "626bd75d5bef5d7d590bd415",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Broadcast - Part 1",
+    "ItemName": "Operating room key",
+    "Id": "773fbce93012fb20d496f570",
+    "Kind": "key",
+    "Template": "62987da96188c076bc0d8c51",
+    "Quest": "626bd75e47ea7f506e5493c5",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Your Car Needs a Service",
+    "ItemName": "Car dealership closed section key",
+    "Id": "527d3ea8c4af0d6cd80bf713",
+    "Kind": "key",
+    "Template": "63a397d3af870e651d58e65b",
+    "Quest": "639135534b15ca31f76bc317",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 35,
+    "Costs": []
+  },
+  {
+    "QuestName": "Your Car Needs a Service",
+    "ItemName": "Car dealership director's office room key",
+    "Id": "23456cbe9f395b0ab9030b4a",
+    "Kind": "key",
+    "Template": "63a399193901f439517cafb6",
+    "Quest": "639135534b15ca31f76bc317",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 35,
+    "Costs": []
+  },
+  {
+    "QuestName": "Ballet Lover",
+    "ItemName": "Primorsky 46-48 skybridge key",
+    "Id": "cb7e7b6e8d977840cec29083",
+    "Kind": "key",
+    "Template": "63a39e1d234195315d4020bd",
+    "Quest": "639135a7e705511c8a4a1b78",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 20,
+    "Costs": []
+  },
+  {
+    "QuestName": "Audiophile",
+    "ItemName": "Primorsky 46-48 skybridge key",
+    "Id": "2be71352a98a73e8982ffcce",
+    "Kind": "key",
+    "Template": "63a39e1d234195315d4020bd",
+    "Quest": "639135bbc115f907b14700a6",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 25,
+    "Costs": []
+  },
+  {
+    "QuestName": "House Arrest - Part 1",
+    "ItemName": "Iron gate key",
+    "Id": "b5fad36edba0aca12aa1d789",
+    "Kind": "key",
+    "Template": "63a39f6e64283b5e9c56b289",
+    "Quest": "639135c3744e452011470807",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 33,
+    "Costs": []
+  },
+  {
+    "QuestName": "House Arrest - Part 2",
+    "ItemName": "Chekannaya 15 apartment key",
+    "Id": "49552447476a6a8b120c56d6",
+    "Kind": "key",
+    "Template": "63a39fc0af870e651d58e6ae",
+    "Quest": "639135cd8ba6894d155e77cb",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 33,
+    "Costs": []
+  },
+  {
+    "QuestName": "Surveillance",
+    "ItemName": "Concordia security room key",
+    "Id": "39d5769926b87357640ae76a",
+    "Kind": "key",
+    "Template": "63a39c7964283b5e9c56b280",
+    "Quest": "639135e8c115f907b14700aa",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 25,
+    "Costs": []
+  },
+  {
+    "QuestName": "Watching You",
+    "ItemName": "Pinewood hotel room 215 key",
+    "Id": "e3b564616c0f4bf1a96ac080",
+    "Kind": "key",
+    "Template": "63a39f08cd6db0635c197600",
+    "Quest": "639136fa9444fb141f4e6eee",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 20,
+    "Costs": []
+  },
+  {
+    "QuestName": "Broadcast - Part 4",
+    "ItemName": "Abandoned factory marked key",
+    "Id": "0205d8cb453f777fdc6d1430",
+    "Kind": "key",
+    "Template": "63a3a93f8a56922e82001f5d",
+    "Quest": "6391372c8ba6894d155e77d7",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 27,
+    "Costs": []
+  },
+  {
+    "QuestName": "Missing Informant",
+    "ItemName": "Backup hideout key",
+    "Id": "2cb79ed5030d4b586e1af3a7",
+    "Kind": "key",
+    "Template": "6398fd8ad3de3849057f5128",
+    "Quest": "63966fbeea19ac7ed845db2e",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Provocation",
+    "ItemName": "Object #11SR keycard",
+    "Id": "ef6afd0a082d2b4927f5c68e",
+    "Kind": "key",
+    "Template": "5e42c81886f7742a01529f57",
+    "Quest": "63966ff54c3ef01b6f3ffad8",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Following the Bread Crumbs",
+    "ItemName": "TerraGroup Labs keycard (Black)",
+    "Id": "4c303a76332480532c462e86",
+    "Kind": "key",
+    "Template": "5c1d0f4986f7744bb01837fa",
+    "Quest": "639670029113f06a7c3b2377",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Following the Bread Crumbs",
+    "ItemName": "TerraGroup Labs manager's office room key",
+    "Id": "4e9ee0fa9ef632518f00f9a5",
+    "Kind": "key",
+    "Template": "5c1e2a1e86f77431ea0ea84c",
+    "Quest": "639670029113f06a7c3b2377",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Following the Bread Crumbs",
+    "ItemName": "TerraGroup Labs weapon testing area key",
+    "Id": "ec574aea78ea40f814ca98ea",
+    "Kind": "key",
+    "Template": "5c1e2d1f86f77431e9280bee",
+    "Quest": "639670029113f06a7c3b2377",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Spotter",
+    "ItemName": "Primorsky 46-48 skybridge key",
+    "Id": "707b302db15ffb6cd36e4e88",
+    "Kind": "key",
+    "Template": "63a39e1d234195315d4020bd",
+    "Quest": "6396700fea19ac7ed845db32",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Gunsmith - Part 9",
+    "ItemName": "P226 Stainless Elite Wooden pistol grip",
+    "Id": "587e2ab1728cd1c17179a673",
+    "Kind": "part",
+    "Template": "5c00076d0db834001d23ee1f",
+    "Quest": "639872fa9b4fb827b200d8e5",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 19,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 9",
+    "ItemName": "P226 Stainless Elite pistol slide",
+    "Id": "e11e7b484882bc3a964c94df",
+    "Kind": "part",
+    "Template": "5c0009510db834001966907f",
+    "Quest": "639872fa9b4fb827b200d8e5",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 19,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 11",
+    "ItemName": "Tactical Dynamics Skeletonized Foregrip",
+    "Id": "139b133936cb8fa31cc1012f",
+    "Kind": "part",
+    "Template": "5f6340d3ca442212f4047eb2",
+    "Quest": "639872fc93ae507d5858c3a6",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 22,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 11",
+    "ItemName": "KRISS Vector Mk.5 modular rail",
+    "Id": "37891c760c37169a86414108",
+    "Kind": "part",
+    "Template": "5fbb978207e8a97d1f0902d3",
+    "Quest": "639872fc93ae507d5858c3a6",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 22,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 14",
+    "ItemName": "EOTech EXPS3-0 holographic sight (Tan)",
+    "Id": "203aba8cc51df7f20af9edc5",
+    "Kind": "part",
+    "Template": "558022b54bdc2dac148b458d",
+    "Quest": "639872fe8871e1272b10ccf6",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 27,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 4
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 14",
+    "ItemName": "AR-15 Magpul UBR GEN2 stock (FDE)",
+    "Id": "6055c31f3b4a6dd5e96ffddd",
+    "Kind": "part",
+    "Template": "5947eab886f77475961d96c5",
+    "Quest": "639872fe8871e1272b10ccf6",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 27,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 14",
+    "ItemName": "L3Harris LA-5B/PEQ tactical device",
+    "Id": "67c57a631a1e345a5244f7a0",
+    "Kind": "part",
+    "Template": "5c06595c0db834001a66af6c",
+    "Quest": "639872fe8871e1272b10ccf6",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 27,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 14",
+    "ItemName": "AR-15 Magpul MOE pistol grip (FDE)",
+    "Id": "196fd2eba6fd6263c41f7db5",
+    "Kind": "part",
+    "Template": "5d15cf3bd7ad1a67e71518b2",
+    "Quest": "639872fe8871e1272b10ccf6",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 27,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 14",
+    "ItemName": "SureFire SOCOM556-RC2 5.56x45 sound suppressor",
+    "Id": "18a90891eddae0c0ca7ad871",
+    "Kind": "part",
+    "Template": "5ea17bbc09aa976f2e7a51cd",
+    "Quest": "639872fe8871e1272b10ccf6",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 27,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 9
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 14",
+    "ItemName": "Magpul RVG foregrip (FDE)",
+    "Id": "718a6f57c4fe3a955f3ba9f5",
+    "Kind": "part",
+    "Template": "5fce0cf655375d18a253eff0",
+    "Quest": "639872fe8871e1272b10ccf6",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 27,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 19",
+    "ItemName": "March Tactical 3-24x42 FFP 30mm riflescope",
+    "Id": "a7786b4fcf9d9ae200b77b0f",
+    "Kind": "part",
+    "Template": "57c5ac0824597754771e88a9",
+    "Quest": "639873003693c63d86328f25",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 36,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 7
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 19",
+    "ItemName": "AR-15 Magpul UBR GEN2 stock (Black)",
+    "Id": "b59104b31fbebd9360281bc4",
+    "Kind": "part",
+    "Template": "5947e98b86f774778f1448bc",
+    "Quest": "639873003693c63d86328f25",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 36,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 19",
+    "ItemName": "AK Magpul MOE pistol grip (Black)",
+    "Id": "e51a0d98c6b08660917a8c5c",
+    "Kind": "part",
+    "Template": "5b30ac585acfc433000eb79c",
+    "Quest": "639873003693c63d86328f25",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 36,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 19",
+    "ItemName": "SVD SAG MK1 chassis",
+    "Id": "6ce65403b4f5695b6d1af229",
+    "Kind": "part",
+    "Template": "5dfcd0e547101c39625f66f9",
+    "Quest": "639873003693c63d86328f25",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 36,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 21",
+    "ItemName": "M700 AB Arms MOD*X GEN 3 chassis",
+    "Id": "aff50bb9010b3de4a76f3eff",
+    "Kind": "part",
+    "Template": "5cde739cd7f00c0010373bd3",
+    "Quest": "63987301e11ec11ff5504036",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 38,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 21",
+    "ItemName": "M700 AB Arms MOD*X GEN 3 KeyMod handguard",
+    "Id": "51e580e0fbf7503a445ddd42",
+    "Kind": "part",
+    "Template": "5cde7afdd7f00c000d36b89d",
+    "Quest": "63987301e11ec11ff5504036",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 38,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 21",
+    "ItemName": "M700 AB Arms MOD*X rail mount",
+    "Id": "f185a4b518040c1f34f8b1a2",
+    "Kind": "part",
+    "Template": "5cde7b43d7f00c000d36b93e",
+    "Quest": "63987301e11ec11ff5504036",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 38,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 21",
+    "ItemName": "M1911 Pachmayr American Legend Grip #423",
+    "Id": "df6a04f162416fac10ad59ba",
+    "Kind": "part",
+    "Template": "5ef366938cef260c0642acad",
+    "Quest": "63987301e11ec11ff5504036",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 38,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 21",
+    "ItemName": "M1911 Anarchy Outdoors .45 ACP muzzle brake",
+    "Id": "3205bb8385b302b7b81d24a3",
+    "Kind": "part",
+    "Template": "5ef61964ec7f42238c31e0c1",
+    "Quest": "63987301e11ec11ff5504036",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 38,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Debtor",
+    "ItemName": "Pinewood hotel room 206 key",
+    "Id": "fb2df589bb40265851f9a112",
+    "Kind": "key",
+    "Template": "63a39f18c2d53c2c6839c1d3",
+    "Quest": "639dbaf17c898a131e1cffff",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 31,
+    "Costs": []
+  },
+  {
+    "QuestName": "Broadcast - Part 5",
+    "ItemName": "Mysterious room marked key",
+    "Id": "e2dfe7e7c23714a964af4ba1",
+    "Kind": "key",
+    "Template": "64ccc25f95763a1ae376e447",
+    "Quest": "64ee99639878a0569d6ec8c9",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "The Door",
+    "ItemName": "Rusted bloody key",
+    "Id": "ba91a3db247b8b46e51475bd",
+    "Kind": "key",
+    "Template": "64d4b23dc1b37504b41ac2b6",
+    "Quest": "64ee9df4496db64f9b7a4432",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 15,
+    "Costs": []
+  },
+  {
+    "QuestName": "Beyond the Red Meat - Part 1",
+    "ItemName": "Beluga restaurant director key",
+    "Id": "5349827987a664cd2c380c0d",
+    "Kind": "key",
+    "Template": "64ccc1fe088064307e14a6f7",
+    "Quest": "64f5e20652fc01298e2c61e3",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Beyond the Red Meat - Part 2",
+    "ItemName": "TerraGroup meeting room key",
+    "Id": "497794d6ee323045d7185001",
+    "Kind": "key",
+    "Template": "64ccc206793ca11c8f450a38",
+    "Quest": "64f6aafd67e11a7c6206e0d0",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Pets Won't Need It - Part 1",
+    "ItemName": "X-ray room key",
+    "Id": "d55072a9b0bc2458ffcdeb3b",
+    "Kind": "key",
+    "Template": "64ccc246ff54fb38131acf29",
+    "Quest": "64f731ab83cfca080a361e42",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Gunsmith - Part 23",
+    "ItemName": "Vortex Razor AMG UH-1 holographic sight",
+    "Id": "116993b31a67e985ea2fa4c7",
+    "Kind": "part",
+    "Template": "59f9d81586f7744c7506ee62",
+    "Quest": "64f83bb69878a0569d6ecfbe",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 4
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 23",
+    "ItemName": "Glock GTL 21 tactical flashlight with laser",
+    "Id": "5b113438317a07186bae1a6e",
+    "Kind": "part",
+    "Template": "5a800961159bd4315e3a1657",
+    "Quest": "64f83bb69878a0569d6ecfbe",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 23",
+    "ItemName": "AR-10 Noveske SWS N6 Split handguard",
+    "Id": "5261a45e9f8e3be0e739cc9d",
+    "Kind": "part",
+    "Template": "5d00ef6dd7ad1a0940739b16",
+    "Quest": "64f83bb69878a0569d6ecfbe",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 24",
+    "ItemName": "NcSTAR MPR45 Backup mount",
+    "Id": "e1b6e8f7e3a6c992801c2866",
+    "Kind": "part",
+    "Template": "5649a2464bdc2d91118b45a8",
+    "Quest": "64f83bcdde58fc437700d8fa",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 24",
+    "ItemName": "Burris FastFire 3 reflex sight",
+    "Id": "ed4a67e9b6de4e95e28acd20",
+    "Kind": "part",
+    "Template": "577d141e24597739c5255e01",
+    "Quest": "64f83bcdde58fc437700d8fa",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 24",
+    "ItemName": "Stark SE-5 Express Forward foregrip",
+    "Id": "cfab0b8f59fcc91ddd145702",
+    "Kind": "part",
+    "Template": "5b057b4f5acfc4771e1bd3e9",
+    "Quest": "64f83bcdde58fc437700d8fa",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 24",
+    "ItemName": "AR-15 HK Ergo PSG-1 style pistol grip",
+    "Id": "748b76d809441516615ab121",
+    "Kind": "part",
+    "Template": "5d025cc1d7ad1a53845279ef",
+    "Quest": "64f83bcdde58fc437700d8fa",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 3
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 24",
+    "ItemName": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
+    "Id": "ced13a17873c889f4831d24d",
+    "Kind": "part",
+    "Template": "5d1b5e94d7ad1a2b865a96b0",
+    "Quest": "64f83bcdde58fc437700d8fa",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 29
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 24",
+    "ItemName": "Steiner DBAL-PL tactical device",
+    "Id": "8139d3be2b1f6abce8173f58",
+    "Kind": "part",
+    "Template": "5d2369418abbc306c62e0c80",
+    "Quest": "64f83bcdde58fc437700d8fa",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 24",
+    "ItemName": "KAC PRS/QDC 7.62x51 sound suppressor",
+    "Id": "d8dfdbe08cfdbe8f89781bfc",
+    "Kind": "part",
+    "Template": "5dfa3d2b0dee1b22f862eade",
+    "Quest": "64f83bcdde58fc437700d8fa",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 7
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 25",
+    "ItemName": "NPZ USP-1 Tyulpan 4x scope",
+    "Id": "19db3243128499acd001b152",
+    "Kind": "part",
+    "Template": "5cf638cbd7f00c06595bc936",
+    "Quest": "64f83bd983cfca080a362c82",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 25",
+    "ItemName": "PK 7.62x54R 100-round box",
+    "Id": "29b25be0a42bfbe2fc8134b7",
+    "Kind": "part",
+    "Template": "646372518610c40fc20204e8",
+    "Quest": "64f83bd983cfca080a362c82",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 25",
+    "ItemName": "PK Zenit B-50 handguard",
+    "Id": "ce1363de13869465ab8d60e3",
+    "Kind": "part",
+    "Template": "6491c6f6ef312a876705191b",
+    "Quest": "64f83bd983cfca080a362c82",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 4
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 25",
+    "ItemName": "PK Zenit PT-2 \"Klassika\" stock",
+    "Id": "2dd7a3cb247a60569774a577",
+    "Kind": "part",
+    "Template": "6492d7847363b8a52206bc52",
+    "Quest": "64f83bd983cfca080a362c82",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Part 25",
+    "ItemName": "PK Zenit DTK-1P 7.62x54R muzzle brake",
+    "Id": "7fb86c37b3ec485ee5c091c0",
+    "Kind": "part",
+    "Template": "6492ef63cfcf7c89e701abf1",
+    "Quest": "64f83bd983cfca080a362c82",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Saving the Mole",
+    "ItemName": "TerraGroup science office key",
+    "Id": "864c568de23f2e9dce03b291",
+    "Kind": "key",
+    "Template": "658199aa38c79576a2569e13",
+    "Quest": "657315e4a6af4ab4b50f3459",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Developer's Secrets - Part 1",
+    "ItemName": "\"Negotiation\" room key",
+    "Id": "ed21e25b3dc6df88ed91bd39",
+    "Kind": "key",
+    "Template": "6582dbe43a2e5248357dbe9a",
+    "Quest": "65733403eefc2c312a759ddb",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 23,
+    "Costs": []
+  },
+  {
+    "QuestName": "Developer's Secrets - Part 2",
+    "ItemName": "Relaxation room key",
+    "Id": "59f6f917e778790ff308fb90",
+    "Kind": "key",
+    "Template": "6582dbf0b8d7830efc45016f",
+    "Quest": "6573382e557ff128bf3da536",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 25,
+    "Costs": []
+  },
+  {
+    "QuestName": "Properties All Around",
+    "ItemName": "Real estate agency office room key",
+    "Id": "d4e0ad36456a3f117a8be485",
+    "Kind": "key",
+    "Template": "6582dc5740562727a654ebb1",
+    "Quest": "6573397ef3f8344c4575cd87",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Dragnet",
+    "ItemName": "TerraGroup storage room keycard",
+    "Id": "b72131972140c34113646e6b",
+    "Kind": "key",
+    "Template": "66acd6702b17692df20144c0",
+    "Quest": "669fa3a08b4a64b332041ff7",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Gunsmith - Special Order",
+    "ItemName": "EOTech XPS3-0 holographic sight",
+    "Id": "b9e76f86f6fb225236eedd4a",
+    "Kind": "part",
+    "Template": "58491f3324597764bc48fa02",
+    "Quest": "66a74c628410476dd65543be",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 0,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 3
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "L3Harris AN/PEQ-15 tactical device",
+    "Id": "1186fa55ec2d3ed0da91d92f",
+    "Kind": "part",
+    "Template": "544909bb4bdc2d6f028b4577",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "Zenit Klesch-2P flashlight with laser",
+    "Id": "a3ae372153d746fee845ff2b",
+    "Kind": "part",
+    "Template": "560d657b4bdc2da74d8b4572",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "AK Zenit RK-3 pistol grip",
+    "Id": "82c0f4607a5ddf24b3ad89c0",
+    "Kind": "part",
+    "Template": "5649ae4a4bdc2d1b2b8b4588",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "Harris S-BRM 6-9\" Bipod",
+    "Id": "0d42219d9710fd44564dd09e",
+    "Kind": "part",
+    "Template": "5888961624597754281f93f3",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "Aimpoint Micro T-1 reflex sight",
+    "Id": "f1f2cb7c42095fe903e56c10",
+    "Kind": "part",
+    "Template": "58d399e486f77442e0016fe7",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 4
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "Aimpoint Micro Spacer High",
+    "Id": "8703a4bb530d4a044eef69fc",
+    "Kind": "part",
+    "Template": "58d39b0386f77443380bf13c",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "PP-19-01 Vityaz 9x19 sound suppressor",
+    "Id": "656dded5557f0a28f91bda1a",
+    "Kind": "part",
+    "Template": "59bfc5c886f7743bf6794e62",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 3
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "AK Zenit PT-3 \"Klassika\" stock",
+    "Id": "e620c191aedc873b7297db32",
+    "Kind": "part",
+    "Template": "59ecc3dd86f7746dc827481c",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "Glock 9x19 Double Diamond thread protector",
+    "Id": "49c6d6fae5eca1a4dd61f9eb",
+    "Kind": "part",
+    "Template": "5a6b592c8dc32e00094b97bf",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "Glock 9x19 Double Diamond 114mm threaded barrel",
+    "Id": "b733e773409800c1a7b7d526",
+    "Kind": "part",
+    "Template": "5a6b5e468dc32e001207faf5",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "Glock 9x19 Magpul PMAG GL9 21-round magazine",
+    "Id": "5e8de5d9f5eed2b589725e38",
+    "Kind": "part",
+    "Template": "5a718da68dc32e000d46d264",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "Glock Pachmayr Tactical Grip Glove",
+    "Id": "2442730aa712ab9e4aae63e4",
+    "Kind": "part",
+    "Template": "5a7b4960e899ef197b331a2d",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "Nightforce ATACR 7-35x56 34mm riflescope",
+    "Id": "3dc3f5b3d14d50111db0fd51",
+    "Kind": "part",
+    "Template": "5aa66be6e5b5b0214e506e97",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 17
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Gunsmith - Old Friend's Request",
+    "ItemName": "Zenit RK-6 tactical foregrip",
+    "Id": "3de60ac3fee284fb7aa46075",
+    "Kind": "part",
+    "Template": "5c1bc7752e221602b1779b34",
+    "Quest": "676529af9c90953d090882e7",
+    "Trader": "5a7c2eca46aef81a7ca2145d",
+    "MinimumLevel": 17,
+    "Costs": [
+      {
+        "Template": "5d1c819a86f774771b0acd6c",
+        "Count": 2
+      },
+      {
+        "Template": "590c2e1186f77425357b6124",
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "QuestName": "Hidden Layer",
+    "ItemName": "Knossos LLC facility key",
+    "Id": "baf6914fb6d7677c505c1a9e",
+    "Kind": "key",
+    "Template": "679b9716597ba2ed120c3d3f",
+    "Quest": "67a096577e86e067eb045733",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Offensive Reconnaissance",
+    "ItemName": "Knossos LLC facility key",
+    "Id": "a72be1fc5ee119952e609eb6",
+    "Kind": "key",
+    "Template": "679b9716597ba2ed120c3d3f",
+    "Quest": "67a0970744893b9f3f0d9b68",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  },
+  {
+    "QuestName": "Keeper's Word",
+    "ItemName": "Corpse room key",
+    "Id": "dcfbc4a40a771990ad865f8a",
+    "Kind": "key",
+    "Template": "679bab714e9ca6b3d80586b4",
+    "Quest": "67a09761e720611a6a01f288",
+    "Trader": "54cb57776803fa99248b456e",
+    "MinimumLevel": 0,
+    "Costs": []
+  }
+]

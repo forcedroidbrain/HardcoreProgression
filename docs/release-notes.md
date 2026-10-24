@@ -1,0 +1,3 @@
+Hardcore Progression 2.0.0 preparation build for SPT 4.1.6. Adds 178 curated quest recovery barters with persistent raid-based unlocks and repeat waits, plus English/Russian quest-description counters. HardcoreRules and Barterizer are optional; medicine and secure-container changes are opt-in.
+
+Includes both DLLs, English configuration/catalog, translations, installation guidance and license notices. The clean-server matrix passed standalone, each integration, both integrations together and enabled optional rules. This remains a draft pending in-game validation, confirmed executable scan reports and Forge AI-code eligibility review. See docs/release-checks.md for the precise scope of completed checks.

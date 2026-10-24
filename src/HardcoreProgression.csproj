@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>HardcoreProgression</AssemblyName>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <Reference Include="$(SptRoot)/SPT_Runtime/*.dll" Exclude="$(SptRoot)/SPT_Runtime/*.Patched.dll"><Private>false</Private></Reference>
+  </ItemGroup>
+  <Target Name="RequireSpt" BeforeTargets="ResolveReferences">
+    <Error Condition="!Exists('$(SptRoot)/SPT_Runtime/SPTarkov.Server.Core.dll')" Text="Set SPT_ROOT or pass -p:SptRoot=PATH to an SPT 4.1.6 installation." />
+  </Target>
+</Project>

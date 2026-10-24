@@ -1,0 +1,54 @@
+{
+  "Enabled": true,
+  "RaidsPerExchange": 6,
+  "EnableMedicineLimits": false,
+  "EnableSecureContainerLimit": false,
+  "EnableHardcoreStarterKit": true,
+  "WriteExchangeCatalog": false,
+  "ServerMessageLanguage": "en",
+  "MedicineLimits": {
+    "5755356824597772cb798962": 1,
+    "544fb3364bdc2d34748b456a": 1,
+    "544fb25a4bdc2dfb738b4567": 2,
+    "5e831507ea0a7c419c2f9bd9": 1
+  },
+  "LateKeyCosts": [
+    {
+      "Template": "590c2e1186f77425357b6124",
+      "Count": 2
+    },
+    {
+      "Template": "5af04b6486f774195a3ebb49",
+      "Count": 1
+    },
+    {
+      "Template": "57347c1124597737fb1379e3",
+      "Count": 3
+    }
+  ],
+  "KeyCosts": [
+    {
+      "Template": "590c2e1186f77425357b6124",
+      "Count": 1
+    },
+    {
+      "Template": "590c2b4386f77425357b6123",
+      "Count": 1
+    },
+    {
+      "Template": "57347c1124597737fb1379e3",
+      "Count": 2
+    }
+  ],
+  "PartCosts": [
+    {
+      "Template": "5d1c819a86f774771b0acd6c",
+      "Count": 2
+    },
+    {
+      "Template": "590c2e1186f77425357b6124",
+      "Count": 1
+    }
+  ],
+  "LateQuestLevel": 16
+}

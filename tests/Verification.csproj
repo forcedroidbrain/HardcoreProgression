@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType><TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="client-bindings/**" />
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <ProjectReference Include="../src/HardcoreProgression.csproj" />
+    <Reference Include="$(SptRoot)/SPT_Runtime/*.dll" Exclude="$(SptRoot)/SPT_Runtime/*.Patched.dll"><Private>true</Private></Reference>
+    <None Include="../config.json;../offers.json;../starter-kit.json" Link="%(Filename)%(Extension)" CopyToOutputDirectory="Always" />
+    <None Include="../locales/*.json" Link="locales/%(Filename)%(Extension)" CopyToOutputDirectory="Always" />
+  </ItemGroup>
+</Project>
