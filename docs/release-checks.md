@@ -1,6 +1,6 @@
 # Release checks — 2.0.0
 
-This is a preparation build, not a claim of Forge approval. Updated test evidence is recorded under ignored `artifacts/`; never include game databases, optional-mod binaries, profiles or raw personal logs in source control.
+Version 2.0.0 is published on [Forge](https://sp-mod.com/mod/3208/hardcore-progression) and [GitHub](https://github.com/forcedroidbrain/HardcoreProgression/releases/tag/v2.0.0). Test evidence is recorded under ignored `artifacts/`; never include game databases, optional-mod binaries, profiles or raw personal logs in source control.
 
 ## Completed automated checks
 
@@ -54,10 +54,10 @@ After testing, the assistant-owned game/server processes were stopped. The origi
 
 Private evidence is under ignored `artifacts/gameplay-20261024-121903/`. Keep raw profiles, credentials, logs and optional-mod binaries out of Git and release assets.
 
-## Before Forge submission
+## Published release verification
 
 - The scoped gameplay smoke tests above are complete. The default six-raid interval, other exit statuses, quest/profile isolation and optional starter-kit rules have automated coverage; they were not all replayed manually.
 - Both rebuilt DLLs completed VirusTotal analysis on 2026-10-24: server **0/70**, client **0/71**. The [reports and hashes](security-scans.md) match the final gameplay binaries and package. Any later binary change needs new reports.
-- Keep the accurate Codex/artwork disclosure. The current sp-mod.com guidelines reviewed on 2026-10-24 do not contain the old domain's AI-code restriction; do not present that historical text as a current blocker. Enable an AI-content field if it is offered by the submission form.
-- Confirm the release archive is built from the public source revision and contains only our own binaries, configuration, docs and required license notices. Set category/tags and SPT constraints to tested versions; Fika remains unknown.
-- Current [Content Guidelines](https://sp-mod.com/content-guidelines) and [Community Standards](https://sp-mod.com/community-standards) were checked on 2026-10-24; see [submission preparation](https://github.com/forcedroidbrain/HardcoreProgression/blob/fix/quest-counter-rendering/docs/forge-submission.md).
+- Codex assistance and generated artwork are disclosed in the README and both language descriptions.
+- The published archive matches the public `v2.0.0` source revision and contains only this project's binaries, configuration, docs and required license notices. Its public download hash was verified. The Forge category is Quests and SPT constraint is `~4.1.6`; Fika remains unknown.
+- Current [Content Guidelines](https://sp-mod.com/content-guidelines) and [Community Standards](https://sp-mod.com/community-standards) were checked on 2026-10-24. Both the Forge page and version 2.0.0 are published; see [release details](https://github.com/forcedroidbrain/HardcoreProgression/blob/main/docs/forge-submission.md).

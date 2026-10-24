@@ -9,7 +9,7 @@ These are the rebuilt files used together in the final clean gameplay check:
 | `HardcoreProgression.dll` | `f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509` | [VirusTotal — 0/70](https://www.virustotal.com/gui/file/f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509/detection) |
 | `HardcoreProgression.Client.dll` | `85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44` | [VirusTotal — 0/71](https://www.virustotal.com/gui/file/85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44/detection) |
 
-The original draft files were also scanned before the task-list formatting fix. Those historical reports are retained below for traceability and do not describe the current package.
+The earlier binary files were also scanned before the task-list formatting fix. Those historical reports are retained below for traceability and do not describe the current package.
 
 | Binary | SHA-256 | Completed report |
 | --- | --- | --- |

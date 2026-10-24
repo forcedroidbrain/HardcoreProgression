@@ -1,16 +1,16 @@
-# Hardcore Progression — Forge page fields
+# Hardcore Progression — Forge page details
 
-Saved on 2026-10-24 as [Hardcore Progression](https://sp-mod.com/mod/3208/hardcore-progression), owned by forcedroidbrain. Both the mod page and its version 2.0.0 are **Unpublished**. GitHub version 2.0.0 is public.
+Published as [Hardcore Progression](https://sp-mod.com/mod/3208/hardcore-progression), owned by forcedroidbrain. Both the mod page and its version 2.0.0 are **published**; their public status was verified on 2026-10-24. [GitHub version 2.0.0](https://github.com/forcedroidbrain/HardcoreProgression/releases/tag/v2.0.0) is also public.
 
 ## Mod
 
-| Field | Prepared value |
+| Field | Value |
 | --- | --- |
 | Name | Hardcore Progression |
 | Author/account | forcedroidbrain |
 | GUID | `com.forcedroidbrain.hardcoreprogression` |
 | English summary | Quest recovery barters unlocked through PMC raids, with persistent progress and English/Russian counters. Standalone; optional HardcoreRules and Barterizer support. |
-| Russian summary | Квестовые обмены, открывающиеся после рейдов за ЧВК. Сохранение прогресса и счётчики EN/RU. Самостоятельный мод с необязательной поддержкой HardcoreRules и Barterizer. |
+| Russian summary reference | Квестовые обмены, открывающиеся после рейдов за ЧВК. Сохранение прогресса и счётчики EN/RU. Самостоятельный мод с необязательной поддержкой HardcoreRules и Barterizer. |
 | License | MIT |
 | Category | Quests |
 | Source repository field | https://github.com/forcedroidbrain/HardcoreProgression/ |
@@ -23,11 +23,11 @@ Saved on 2026-10-24 as [Hardcore Progression](https://sp-mod.com/mod/3208/hardco
 | Fika | Untested / unknown |
 | Profile binding notice | Disabled: the mod adds no custom quest, trader or item templates to profile saves; normal purchased items survive uninstall, and its own progress is in a separate ledger |
 
-The thumbnail, English description, Russian instructions link, Quests category, MIT license and source link were saved and read back on the mod page. Its Publish Date remains blank. Comments, add-ons and lists retain the normal defaults; support links point to GitHub Issues.
+The published mod page displays the thumbnail, English description, Russian instructions link, Quests category, MIT license and source link. Comments, add-ons and lists retain the normal defaults; support links point to GitHub Issues.
 
 ## Version
 
-| Field | Prepared value |
+| Field | Value |
 | --- | --- |
 | Version | `2.0.0` |
 | SPT | `4.1.6`; metadata constraint `~4.1.6` |
@@ -40,8 +40,8 @@ The thumbnail, English description, Russian instructions link, Quests category, 
 | Server scan | [VirusTotal: 0/70, verified 2026-10-24](https://www.virustotal.com/gui/file/f0dd773a1e0a7a5d08d1f8e248ac8d65c4f5c6a088dea5e20a1dd99eed993509/detection) |
 | Client scan | [VirusTotal: 0/71, verified 2026-10-24](https://www.virustotal.com/gui/file/85e685087ab8703f8edb12b0c5793250cb63df4da608e1367aa37e660f60cc44/detection) |
 
-HardcoreRules 3.1.0 and Barterizer 0.1.3 are optional integrations, not required dependencies. OpenBarters testing covers the maintainer's 1.0.1 fork at cd66ed5 alongside both integrations. Keep those limits in the description.
+HardcoreRules 3.1.0 and Barterizer 0.1.3 are optional integrations, not required dependencies. OpenBarters testing covers the maintainer's 1.0.1 fork at cd66ed5 alongside both integrations. The description records these compatibility limits.
 
-Both language descriptions include My mods / Мои моды with the Barterizer link and a short explanation of its economy conversion role. Keep that section when transferring the text into the editor.
+Both language descriptions include My mods / Мои моды with the Barterizer link and a short explanation of its economy conversion role. The published Forge page includes this section and links to the Russian instructions.
 
-The saved version was read back as 2.0.0, SPT 4.1.6, 2.95 MiB, with both VirusTotal links. Its Publish Date remains blank. Publish the mod and version only when the maintainer requests Forge publication.
+The published version is 2.0.0 for SPT 4.1.6, with a 2.95 MiB download and both VirusTotal links.
